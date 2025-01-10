@@ -1,2 +1,4 @@
 # requirements needed for the deployment of the question and answeing model app
+streamlit
 transformers
+torch
